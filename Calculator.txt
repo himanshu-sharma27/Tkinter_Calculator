@@ -1,0 +1,32 @@
+Project Name      : Calculator Application
+Technology        : Python Tkinter
+Project Type      : Desktop GUI Application
+Level             : Beginner
+
+Description:
+This project is a simple calculator application developed using Python's Tkinter library.
+It allows users to perform basic arithmetic operations such as addition, subtraction,
+multiplication, and division through a graphical user interface.
+
+Functionalities:
+- Numeric input using buttons
+- Arithmetic operations (+, -, *, /)
+- Clear input using 'C' button
+- Delete last character using backspace button
+- Expression evaluation using '=' button
+- Error handling for invalid expressions
+
+Modules Used:
+- tkinter
+
+Purpose:
+This project is designed to help beginners understand:
+- GUI programming using Tkinter
+- Event handling in Python
+- Grid layout system
+- Basic exception handling
+- Function-based code structure
+
+Execution:
+Run the program using Python 3:
+python calculator.py

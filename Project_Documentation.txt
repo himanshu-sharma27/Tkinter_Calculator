@@ -1,0 +1,27 @@
+TOC / INDEX
+1 Abstract
+2 Methodology
+    2.1 Development Approach
+            2.1.1 Design Phase
+            2.1.2 Implementation Phase
+            2.1.3 Testing Phase
+    2.2 Technical Architecture
+    2.3 Algorithm Flow
+3 Code Explanation
+        3.1 Library Import
+        3.2 Core Functions
+                3.2.1 Press Function
+                3.2.2 Clear Function
+                3.2.3 Calculate Function
+        3.3 Main Window Configuration
+        3.4 Entry WIdget Creation
+        3.5 Button Grid Generation
+        3.6 Clear Button Creation
+        3.7 Event Loop Execution
+4 Features and Functionality
+        4.1 Key Features
+        4.2 User Interface
+5 Limitations and Future Enhancements
+        5.1 Current Limitations
+        5.2 Potential Enhancements
+6 Conclusion

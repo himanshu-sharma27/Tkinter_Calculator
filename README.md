@@ -47,4 +47,4 @@ calculator-app/
 4. Run the following command:
 
 ```bash
-python calculator.py
+Calculator.py
